@@ -1,2 +1,1 @@
-# shell
-# shell
+Shell script for local linux development
